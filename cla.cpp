@@ -232,6 +232,7 @@ int fibonacci()
 		cout<<next<<" ";
 	}
 }
+/*MULTIPLICATION TABLE OF A NUMBER */
 int table()
 {
 	int n;
